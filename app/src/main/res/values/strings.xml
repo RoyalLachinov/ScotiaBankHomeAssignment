@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScotiaBankHomeAssignment</string>
+    <string name="string_dialog_title">Please wait...</string>
+    <string name="string_dialog_message">Fetching daily picture</string>
+    <string name="string_network_connection_not_available">Network Connection Not Available</string>
+    <string name="string_some_thing_wrong">Something went wrong.</string>
+    <string name="string_saved_url_key">string_saved_url_key</string>
+    <string name="string_saved_title_key">string_saved_title_key</string>
+</resources>
